@@ -1,7 +1,7 @@
-import Test from "@/components/Test";
+import WeatherData from "@/components/Test";
 
 export default function Home() {
   return (
-      <Test />
+      <WeatherData />
   );
 }
